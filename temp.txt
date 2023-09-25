@@ -1,0 +1,2 @@
+select * from table 
+where dt=20230725
